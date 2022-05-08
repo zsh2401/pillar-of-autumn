@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/assets/icon.png" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pillar of Autumn</title>
+</head>
+
+<body>
+  <div id="root">
+    <style>
+      * {
+        margin: 0px;
+        padding: 0px;
+      }
+
+      .outer {
+        width: 100%;
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+
+      .inner {
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+      }
+
+      .content {
+        text-align: center;
+      }
+
+      .icon {
+        width: 120px;
+        height: 120px;
+        margin-bottom: 30px;
+      }
+    </style>
+
+    <div class="outer">
+      <div class="inner">
+        <div class="content">
+          <img alt="The icon of POA" class="icon" src="/assets/icon.png"><br />
+          <h1>Pillar of Autumn</h1>
+          <p> Downloading Application<br />
+            正在下载应用
+          </p>
+          <noscript>
+            You have to enable JavaScript to run this App.<br />
+            你必须开启JavaScript才能运行这个应用。
+          </noscript>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script type="module" src="/preload.ts"></script>
+</body>
+
+</html>

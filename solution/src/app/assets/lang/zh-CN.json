@@ -1,0 +1,18 @@
+{
+    "lang_code": "zh-CN",
+    "lang_name": "简体中文 (Simplified Chinese)",
+    "app_name": "秋之盒 II",
+    "app_slogan": "强大的，基于前沿Web技术的安卓管理工具",
+    "app_loading": "应用加载中",
+    "app_present": "由Seymour Zhang呈现",
+    "loading_stage_compability": "正在检查兼容性",
+    "loading_stage_loading_drivers": "正在装载驱动",
+    "google_chrome_name": "谷歌 Chrome",
+    "google_chrome_url": "https://www.google.cn/intl/zh-CN/chrome/",
+    "microsoft_edge_name": "微软 Edge (Chromium)",
+    "microsoft_edge_url": "https://www.microsoft.com/zh-cn/edge",
+    "lowest_version": ">= ",
+    "recommonded_env": "我们推荐在以下环境中使用 秋之盒 II",
+    "download": "下载",
+    "loading": "加载中"
+}
